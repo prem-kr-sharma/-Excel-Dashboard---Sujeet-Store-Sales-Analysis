@@ -2,7 +2,7 @@
 
 This project is an interactive Excel dashboard created to analyze and visualize sales data for **Sujeet Store**. It provides powerful insights through dynamic charts, key performance indicators (KPIs), and slicers, making it easier to explore and interpret sales trends.
 
-![Dashboard Screenshot]((https://github.com/prem-kr-sharma/-Excel-Dashboard---Sujeet-Store-Sales-Analysis/blob/9e0ece88a52e72ec066c9069dad6be7c4013fd43/Screenshot%202025-04-17%20114055.png))
+![Dashboard Screenshot](https://github.com/prem-kr-sharma/-Excel-Dashboard---Sujeet-Store-Sales-Analysis/blob/9e0ece88a52e72ec066c9069dad6be7c4013fd43/Screenshot%202025-04-17%20114055.png)
 
 
 
